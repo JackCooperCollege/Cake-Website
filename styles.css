@@ -1,6 +1,9 @@
+body {
+    background-image: url("assets/fresh-fruit-cake.jpg");
+}
+
 #banner {
-    background-color: lightblue;
     text-align: center;
     padding: 5%;
-    opacity: 50%;
+    background: rgba(173, 216, 230, 0.5);
 }
