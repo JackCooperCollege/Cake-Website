@@ -5,6 +5,7 @@ body {
 }
 
 #banner {
+    margin-top: 10%;
     text-align: center;
     padding: 5%;
     background: rgba(173, 216, 230, 0.75);
