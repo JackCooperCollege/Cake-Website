@@ -10,3 +10,7 @@ body {
     padding: 5%;
     background: rgba(173, 216, 230, 0.75);
 }
+
+footer {
+    background-color: aliceblue;
+}
